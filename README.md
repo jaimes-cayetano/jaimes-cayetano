@@ -90,22 +90,22 @@ I'm a **Full Stack Developer** with **+2 years** of experience building technolo
 **Frontend**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,react,js&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=vue,react,js&theme=light" alt="Frontend" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue%2Creact%2Cjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vue%2Creact%2Cjs&theme=light" alt="Frontend" />
 </picture>
 
 **Backend & bases de datos**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,prisma,mysql,redis&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,prisma,mysql,redis&theme=light" alt="Backend" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Claravel%2Csymfony%2Cnodejs%2Cprisma%2Cmysql%2Credis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php%2Claravel%2Csymfony%2Cnodejs%2Cprisma%2Cmysql%2Credis&theme=light" alt="Backend" />
 </picture>
 
 **Cloud & DevOps**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,git,github&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,git,github&theme=light" alt="Cloud y DevOps" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Ccloudflare%2Cdocker%2Cgit%2Cgithub&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws%2Cgcp%2Ccloudflare%2Cdocker%2Cgit%2Cgithub&theme=light" alt="Cloud y DevOps" />
 </picture>
 
 **Inteligencia Artificial**
